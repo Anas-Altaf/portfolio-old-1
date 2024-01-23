@@ -246,10 +246,8 @@ section img {
     background-color: #0077b5;
 }
 footer {
-    cursor: url('/images/cursor-2.png'), auto;
-    display: flex;
-    align-items: center;
-    justify-content:center;
+    position : absolute;
+    bottom: 0px;
     background: black;
 }
 
